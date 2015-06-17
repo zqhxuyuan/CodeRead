@@ -14,8 +14,8 @@
 
 2. Apache HBase 0.94.12
 
-+ Put
-+ Get
++ [x] Put
++ [x] Get
 
 
 3. Alibaba JStorm
