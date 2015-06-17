@@ -3,14 +3,14 @@
 
 1. Apache Storm 0.9.1-incubating
 
-+ Topology
-+ Nimbus
-+ Supervisor
-+ Worker
-- Executor
-- Task
-- DRPC
-- Trient
++ [x] Topology
++ [x] Nimbus
++ [x] Supervisor
++ [x] Worker
+- [ ] Executor
+- [ ] Task
+- [ ] DRPC
+- [ ] Trient
 
 2. Apache HBase 0.94.12
 
