@@ -13,8 +13,9 @@
         <module>apache-storm-0.9.1-incubating</module>
         <module>jstorm</module>
         <module>jafka</module>
-	<module>hadoop-2.7.0-src</module>
-	<module>hbase-1.0.1.1</module>
+        <module>hadoop-2.7.0-src</module>
+        <module>hbase-1.0.1.1</module>
+        <module>spark-1.4.0</module>
     </modules>
 
 </project>
