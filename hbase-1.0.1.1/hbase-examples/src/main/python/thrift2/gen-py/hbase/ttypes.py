@@ -1147,7 +1147,7 @@ class TScan:
 class TIOError(TException):
   """
   A TIOError exception signals that an error occurred communicating
-  to the HBase master or a HBase region server. Also used to return
+  to the HBase main or a HBase region server. Also used to return
   more general HBase error conditions.
 
   Attributes:
